@@ -1,0 +1,20 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
+.main-heading {
+  color: white;
+  text-align: center;
+}
+
+.like-button {
+  background-color: yellow;
+}
+
+.comment-button {
+  background-color: white;
+}
+.share-button {
+  background-color: blue;
+}
